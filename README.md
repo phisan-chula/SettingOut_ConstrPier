@@ -4,3 +4,5 @@ Calculate setting-out coordinates of columns composing a pile foundation. Softwa
 A pier could contains many columns specified by local coordinate system and defined in YAML 02_CHOS_Pier.yaml file.
 
 Acknowledgement: thanks Khun SubenMukem@ITD for sample data and inspiration.
+
+![alt text](https://github.com/phisan-chula/SettingOut_ConstrPier/blob/main/Plot_PierColumns.jpg?raw=True)
